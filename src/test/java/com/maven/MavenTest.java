@@ -31,10 +31,10 @@ public class MavenTest {
 	
 	}
 	
-	@Test
+	//@Test
 	
 	
-	public void Click_On_Link(String linkname){
+	/*public void Click_On_Link(String linkname){
 		
 		List<WebElement> listitems=driver.findElements(By.tagName("a"));
 		
@@ -84,5 +84,5 @@ public class MavenTest {
 		
 		driver.switchTo().window(parent);
 		
-	}
+	}*/
 }
