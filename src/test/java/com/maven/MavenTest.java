@@ -27,6 +27,7 @@ public class MavenTest {
 	
 	PageFactory.initElements(driver, this);
 	
+	System.out.println("welcome to testng");
 	//Click_On_Link("Images");
 	
 	}
